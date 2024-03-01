@@ -89,4 +89,4 @@ If you have a scalability problem, your system is fast for a single user but slo
     https://cloudinfrastructureservices.co.uk/what-is-dns-hierarchy/
 
 9. How CDN Works
-    https://www.imperva.com/learn/performance/cdn-architecture/
+    https://www.imperva.com/learn/performance/what-is-cdn-how-it-works
