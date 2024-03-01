@@ -80,8 +80,13 @@ If you have a scalability problem, your system is fast for a single user but slo
 
 6. Database replication
    https://estuary.dev/data-replication-strategies/
-   
+
 7. Database Sharding vs. partitioning
    https://planetscale.com/learn/articles/sharding-vs-partitioning-whats-the-difference
    https://www.mongodb.com/basics/sharding
-    
+
+8. How DNS works
+    https://cloudinfrastructureservices.co.uk/what-is-dns-hierarchy/
+
+9. How CDN Works
+    https://www.imperva.com/learn/performance/cdn-architecture/
